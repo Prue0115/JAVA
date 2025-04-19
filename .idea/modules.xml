@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MID-Term Project/MID-Term Project.iml" filepath="$PROJECT_DIR$/MID-Term Project/MID-Term Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice_4_1/Practice_4_1.iml" filepath="$PROJECT_DIR$/Practice/Practice_4_1/Practice_4_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice_4_2/Practice_4_2.iml" filepath="$PROJECT_DIR$/Practice/Practice_4_2/Practice_4_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice_4_3/Practice_4_3.iml" filepath="$PROJECT_DIR$/Practice/Practice_4_3/Practice_4_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice_5_1/Practice_5_1.iml" filepath="$PROJECT_DIR$/Practice/Practice_5_1/Practice_5_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice_5_2/Practice_5_2.iml" filepath="$PROJECT_DIR$/Practice/Practice_5_2/Practice_5_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice_6_1/Practice_6_1.iml" filepath="$PROJECT_DIR$/Practice/Practice_6_1/Practice_6_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice_7_1/Practice_7_1.iml" filepath="$PROJECT_DIR$/Practice/Practice_7_1/Practice_7_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice_7_2/Practice_7_2.iml" filepath="$PROJECT_DIR$/Practice/Practice_7_2/Practice_7_2.iml" />
+    </modules>
+  </component>
+</project>
