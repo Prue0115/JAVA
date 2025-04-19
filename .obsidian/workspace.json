@@ -164,17 +164,18 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:빠른 전환기 열기": false,
+      "obsidian-git:Open Git source control": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "98268568aa7ab59f",
+  "active": "723d7de14ce0dcd6",
   "lastOpenFiles": [
-    "Practice/Practice_4_1/README.md",
-    "MID-Term Project/README.md"
+    "Practice/README.md",
+    "MID-Term Project/README.md",
+    "Practice/Practice_4_1/README.md"
   ]
 }
