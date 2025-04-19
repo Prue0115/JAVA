@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f45a087a7b21bf0c",
+        "id": "9faf056480925dd2",
         "type": "tabs",
         "children": [
           {
-            "id": "82bf8441234f3a73",
+            "id": "d68f61bd9e6ec328",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -98,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -116,6 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -129,6 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "README.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -136,14 +139,24 @@
           "icon": "lucide-list",
           "title": "개요"
         }
+      },
+      {
+        "id": "4304d6be466b6703",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:빠른 전환기 열기": false,
+      "obsidian-git:Open Git source control": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
@@ -151,10 +164,8 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "82bf8441234f3a73",
+  "active": "d68f61bd9e6ec328",
   "lastOpenFiles": [
-    "Practice/README.md",
-    "README.md",
     "MID-Term Project/README.md"
   ]
 }
