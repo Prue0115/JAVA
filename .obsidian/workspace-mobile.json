@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9faf056480925dd2",
+        "id": "f45a087a7b21bf0c",
         "type": "tabs",
         "children": [
           {
-            "id": "d68f61bd9e6ec328",
+            "id": "82bf8441234f3a73",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,6 +138,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -146,6 +147,6 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d68f61bd9e6ec328",
+  "active": "82bf8441234f3a73",
   "lastOpenFiles": []
 }
