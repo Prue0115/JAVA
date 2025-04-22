@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "MID-Term Project/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -181,9 +181,11 @@
   },
   "active": "723d7de14ce0dcd6",
   "lastOpenFiles": [
-    "Practice/README.md",
-    "README.md",
+    "Practice/Practice_4_3/README.md",
+    "Practice/Practice_4_2/README.md",
+    "Practice/Practice_4_1/README.md",
     "MID-Term Project/README.md",
-    "Practice/Practice_4_1/README.md"
+    "README.md",
+    "Practice/README.md"
   ]
 }
